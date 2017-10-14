@@ -1,0 +1,16 @@
+{
+  "name": "express-insert-mw",
+  "version": "1.0.0",
+  "description": "Call express middlewares just before calling next or sending response",
+  "author": "Dimitri NICOLAS",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "dimitrinicolas/express-insert-mw.git",
+  "keywords": [
+    "express",
+    "middleware"
+  ]
+}
