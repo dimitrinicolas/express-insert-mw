@@ -5,7 +5,7 @@ Call express middlewares just before calling next or sending response
 ## Installation
 
 ```sh
-$ npm install express-insert-middleware
+$ npm install express-insert-mw
 ```
 
 ## Usage
