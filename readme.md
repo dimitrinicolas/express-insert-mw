@@ -5,12 +5,12 @@ Call express middlewares just before calling next or sending response
 ## Installation
 
 ```sh
-$ npm install express-insert-mw
+$ npm i express-insert-mw
 ```
 
 ## Usage
 
-Use this module to manualy call middleware inside your express
+Use this module to manually call middleware inside your express
 
 For example,
 
